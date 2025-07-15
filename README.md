@@ -34,9 +34,9 @@ This project analyzes fictional pizza sales data using SQL Server and Excel. The
 ---
 
 ## 📄 Files Included
-- ` [Excel dashboard.xlsx](https://github.com/user-attachments/files/21229381/Excel.dashboard.xlsx)
+- `(https://github.com/user-attachments/files/21229381/Excel.dashboard.xlsx)
  ` – Excel dashboard
-- `[PIZZA SALES ANALYSIS SQL QUERIE1.docx](https://github.com/user-attachments/files/21229486/PIZZA.SALES.ANALYSIS.SQL.QUERIE1.docx)
+- `(https://github.com/user-attachments/files/21229486/PIZZA.SALES.ANALYSIS.SQL.QUERIE1.docx)
  ` – SQL queries used
 - `<img width="1919" height="1079" alt="Screenshot 2025-07-15 142438" src="https://github.com/user-attachments/assets/1a5d87e0-1f32-4c69-b7ef-31d822a8e2dc" />
 ` – Screenshot of dashboard
