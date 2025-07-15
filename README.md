@@ -21,8 +21,7 @@ This project analyzes fictional pizza sales data using SQL Server and Excel. The
 
 ---
 
-## 📌 <img width="1919" height="1079" alt="Screenshot 2025-07-15 142438" src="https://github.com/user-attachments/assets/00646ed1-dc2b-4692-b0f2-f600020ee39e" />
-Dashboard Preview !(dashboard.png)
+## Dashboard Preview 📌 <img width="1919" height="1079" alt="Screenshot 2025-07-15 142438" src="https://github.com/user-attachments/assets/00646ed1-dc2b-4692-b0f2-f600020ee39e" />
 
 ---
 
